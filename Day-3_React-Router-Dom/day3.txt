@@ -1,0 +1,12 @@
+router/link/routes
+nav = useNavigate
+url parems
+phân quyền:
+ <Navigate to =("/")>
+ children component
+ higher order component 
+ lazy load =>component màn hình(home user,..)=> ssr chạy nhanh => để đó nó lấy ra chạy lun ko kịp import=> dùng <Suspenses/> đợi import r mới trả ra để react render
+ lazy load => thư viện ít được dùng 	
+ chỉ số sto react
+ 
+ 
